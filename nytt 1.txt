@@ -1,0 +1,5 @@
+internal class Support { 
+    public static void printMessage(String message) { 
+     Console.WriteLine(message); 
+    } 
+} 
